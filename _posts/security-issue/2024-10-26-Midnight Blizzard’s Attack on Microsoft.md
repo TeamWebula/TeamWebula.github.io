@@ -3,7 +3,7 @@ title: "Midnight Blizzard’s Attack on Microsoft"
 description: "러시아와 관련된 해커 그룹 Midnight Blizzard가 2023년 11월부터 Microsoft를 공격했으며, 이는 2024년 1월에 공개되었다."
 author: bde574786
 date: 2024-10-26 16:38:00 +0900
-categories: [Recent Security Trends]
+categories: [최근 보안 이슈]
 tags: [빡공팟, 콘테스트 네뷸라, 최근 보안 이슈, Password Spray Attack]
 image: https://regmedia.co.uk/2024/02/26/bear_shutterstock.jpg
 ---
